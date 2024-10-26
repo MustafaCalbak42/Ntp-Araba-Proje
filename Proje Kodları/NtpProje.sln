@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NtpProje", "NtpProje\NtpProje.csproj", "{45845441-5FC6-4D94-9E33-5582F778D7CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupAraba", "..\..\Users\SE Mustafa\Desktop\SetupAraba\SetupAraba.vdproj", "{E4D14736-88B3-4C39-A974-B424630D8627}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1Araba", "..\..\Users\SE Mustafa\Desktop\Setup1Araba\Setup1Araba.vdproj", "{DFB1B5AD-D1CC-4ABB-B41B-BB9D86B388F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45845441-5FC6-4D94-9E33-5582F778D7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45845441-5FC6-4D94-9E33-5582F778D7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45845441-5FC6-4D94-9E33-5582F778D7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45845441-5FC6-4D94-9E33-5582F778D7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D14736-88B3-4C39-A974-B424630D8627}.Debug|Any CPU.ActiveCfg = Debug
+		{E4D14736-88B3-4C39-A974-B424630D8627}.Release|Any CPU.ActiveCfg = Release
+		{DFB1B5AD-D1CC-4ABB-B41B-BB9D86B388F7}.Debug|Any CPU.ActiveCfg = Debug
+		{DFB1B5AD-D1CC-4ABB-B41B-BB9D86B388F7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D252209-2D8A-4F9F-8E51-A4D4A847D556}
+	EndGlobalSection
+EndGlobal
